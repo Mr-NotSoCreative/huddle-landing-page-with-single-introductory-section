@@ -75,9 +75,9 @@ h1 {
   text-align: center;
   max-width: 200px;
   border-radius: 100px;
-  box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.65);
-  -webkit-box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.65);
-  -moz-box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.65);
+  box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 10px 19px -3px rgba(0, 0, 0, 0.4);
 }
 .btn:hover {
   background-color: var(--Soft-Magenta);
