@@ -109,6 +109,13 @@ h1 {
   color: var(--Soft-Magenta-hover);
   border: 1px solid var(--Soft-Magenta-hover);
 }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: white;
+}
 @media screen and (max-width: 810px) {
   body {
     background-image: url(./images/bg-mobile.svg);
